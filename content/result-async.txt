@@ -1,1 +1,1 @@
-the async result: Hello from first.txt and Hello from second.txtthe async result: Hello from first.txt and Hello from second.txtthe async result: Hello from first.txt and Hello from second.txt
+THIS IS AWESOME: Hello from first.txt Hello from second.txtTHIS IS AWESOME: Hello from first.txt Hello from second.txtTHIS IS AWESOME: Hello from first.txt Hello from second.txt
